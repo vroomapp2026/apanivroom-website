@@ -51,7 +51,7 @@ header{
 }
 .nav{display:flex;align-items:center;justify-content:space-between;padding:16px 24px;}
 .logo{display:flex;align-items:center;gap:10px;font-family:'Poppins',sans-serif;font-weight:800;font-size:20px;color:var(--white);}
-.logo-img{height:38px;width:auto;display:block;}
+.logo-img{width:170px;height:auto;display:block;}
 nav.links{display:flex;gap:28px;align-items:center;}
 nav.links a{color:var(--gray-300);font-weight:500;font-size:14px;transition:color .15s;}
 nav.links a:hover{color:var(--white);}
